@@ -1,8 +1,8 @@
 # The Funniest Honest Appliance Error
 
 [![make.fun · u-xvader-the-funniest-honest-appliance-error-adec4450](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
-[![rank](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/nelsenwiliam/makefun-funniest-appliance-error/rank.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
-[![reward](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/nelsenwiliam/makefun-funniest-appliance-error/reward.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
+[![rank](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/nelsenwiliam/makefun-honest-appliance-error/rank.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
+[![reward](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/nelsenwiliam/makefun-honest-appliance-error/reward.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
 
 Entry for the make.fun bounty
 [**The Funniest Honest Appliance Error**](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450):
